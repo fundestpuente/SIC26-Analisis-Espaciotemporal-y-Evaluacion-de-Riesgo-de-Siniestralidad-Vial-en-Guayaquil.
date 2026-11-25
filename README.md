@@ -1,0 +1,1 @@
+# SIC26-Analisis-Espaciotemporal-y-Evaluacion-de-Riesgo-de-Siniestralidad-Vial-en-Guayaquil.
