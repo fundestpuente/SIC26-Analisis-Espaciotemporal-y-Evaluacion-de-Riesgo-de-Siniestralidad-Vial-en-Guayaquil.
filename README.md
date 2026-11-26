@@ -8,7 +8,7 @@
 ---
 
 ## 👥 Integrantes del Grupo
-- David Párraga
+- Ronald David Parraga Mendoza
 - Emanuel Tito
 - Francisco Albuja
 - Ismael Lima
