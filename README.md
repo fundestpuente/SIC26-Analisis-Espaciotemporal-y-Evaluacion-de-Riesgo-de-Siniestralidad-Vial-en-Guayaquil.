@@ -2,7 +2,7 @@
 **Sub titulo**
 
 **Curso:** Samsung Innovation Campus – Módulo de Python (Ecuador 2026)  
-**Sección:** EC...
+**Sección:** EC A
 
 
 ---
