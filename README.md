@@ -8,11 +8,11 @@
 ---
 
 ## 👥 Integrantes del Grupo
--
--
--
--
--
+- David Párraga
+- Emanuel Tito
+- Francisco Albuja
+- Ismael Lima
+- Mariana Camba
 
 ---
 
