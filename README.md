@@ -1,5 +1,6 @@
 # VíaSegura GYE  
 **Sub titulo**
+Análisis Espaciotemporal y Evaluación de Riesgo de Siniestralidad Vial en Guayaquil
 
 **Curso:** Samsung Innovation Campus – Módulo de Python (Ecuador 2026)  
 **Sección:** EC A
