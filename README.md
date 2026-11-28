@@ -17,7 +17,7 @@
 ---
 
 ## 📝 Descripción del Proyecto
-
+Sistema en Python para analizar la siniestralidad vial en Guayaquil usando los microdatos oficiales del INEC (ESTRA 2024: siniestros y vehículos matriculados). El proyecto limpia y cruza ambas bases para calcular tasas por cada 10,000 vehículos, evalúa cada incidente mediante un Índice de Gravedad Vial de 0 a 100, identifica los Escenarios Críticos Espaciotemporales: Zona, día, franja horaria, clase y causa, optimiza la asignación preventiva de agentes/patrullas para autoridades de tránsito  y presenta resultados y reportes exportables en un dashboard interactivo.
 
 ---
 
